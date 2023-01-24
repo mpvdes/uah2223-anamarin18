@@ -8,4 +8,7 @@ Este es el repositorio de trabajo inicial del [Máster de formación de Periodis
 - [Prueba de Terminal](prueba-terminal.md)
 - [Prueba de Python](prueba-python.md)
 - [Prueba de HTML](prueba-html.md)
+
+## Charlas
+
 - [Charla de Alba Martín](charla-alba-martin.md)
