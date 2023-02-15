@@ -1,0 +1,48 @@
+@import url('https://fontlibrary.org/en/font/glacial-indifference');
+p {
+    font-family: 'GlacialIndifferenceRegular', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: 'GlacialIndifferenceRegular';
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+section{
+display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.portada{
+    background-color: rgba(165,226,216);
+    min-height: 260px;
+}
+
+.imagen-portada{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 40%;
+}
+
+.sobre-mi{
+    min-height: 300px;
+    color: rgba(47,53,52);
+    background-color: rgba(236,250,247);
+    aling-items: center;
+
+}
+
+.section-title{
+    font-size: 1.5rem;
+
+}
+
+.enlace-email{
+    text-decoration: none;
+}
